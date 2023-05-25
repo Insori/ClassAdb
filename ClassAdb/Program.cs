@@ -16,6 +16,8 @@ namespace ClassAdb
             Product product2 = new Product("핫도그", 2000);
             Product product3 = new Product("이클립스", 3000);
             Console.WriteLine("안녕하세요.");
+            Console.WriteLine("반갑습니다.");
+            Console.WriteLine("행복하세요.");
         }
     }
 }
